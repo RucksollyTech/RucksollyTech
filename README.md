@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: You cannot feel pain when you pinch your elbow 
 
 - 
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=RucksollyTech&show_icons=true&theme=transparent&hide=stars&hide=prs&hide=issues&hide=contribs)
+[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=RucksollyTech&hide=stars&hide=prs&hide=issues&hide=contribs&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
