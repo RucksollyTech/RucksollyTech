@@ -7,7 +7,7 @@ Full Stack Web Developer
 Full Stack Developer, Web Development Tutor, and PES Expert. Infusing innovation into web solutions, sharing knowledge with enthusiasm, and adding a touch of fun and sportsmanship to the tech world.
 
 * 🖥️  See my portfolio at [rucksolly-portfolio](http://rucksolly-portfolio.vercel.app/)
-* ✉️  You can contact me at [anthonychibuzorokenwa@gmail.com](mailto:anthonychibuzorokenwa@gmail.com)
+* ✉️  You can contact me at [mail](mailto:anthonychibuzorokenwa@gmail.com)
 * 🤝  I'm open to collaborating on any interesting project
 * ⚡  I'm secretly the Flash but don't tell anyone
 
