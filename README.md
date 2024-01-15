@@ -22,5 +22,6 @@ Full Stack Developer, Web Development Tutor, and PES Expert. Infusing innovation
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/chibuzor-anthony-907289191" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=RucksollyTech&hide=stars,prs,issues,contribs&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=RucksollyTech&hide=stars,prs,issues,contribs&show_icons=true&theme=transparent)
 
